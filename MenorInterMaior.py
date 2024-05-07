@@ -32,4 +32,4 @@ if n2 > n3:
 
 print(f'são menor:{n1}, inter:{n2}, maior:{n3}')
 print('teste de commit local')
-print('teste para commit no GITHUB')
+print('teste para commit no GITHUB ')
