@@ -1,15 +1,15 @@
-#Colecoes
-#Sao as variaveis que apresentam mais de um valor
-#elas podem ser do mesmo tipo ou de tipos diferentes
-#TODA colecao é um elemento ITERAVEL, ou seja q eu posso percorrer
+Colecoes
+Sao as variaveis que apresentam mais de um valor
+elas podem ser do mesmo tipo ou de tipos diferentes
+TODA colecao é um elemento ITERAVEL, ou seja q eu posso percorrer
 
-#LISTA
-#a primeira q veremos
-#a mais poderosa e mais comum
-#FLEXIVEL (permite inserir elementos, modificar, excluir)
-#MUTAVEIS, EXPANSIVEIS, ORDENADAS, PERMITEM DUPLICADOS
-#PERMITEM TIPOS DIFERENTES
-#SAO ACESSADAS POR INDICES
+LISTA
+a primeira q veremos
+a mais poderosa e mais comum
+FLEXIVEL (permite inserir elementos, modificar, excluir)
+MUTAVEIS, EXPANSIVEIS, ORDENADAS, PERMITEM DUPLICADOS
+PERMITEM TIPOS DIFERENTES
+SAO ACESSADAS POR INDICES
 
 print('LISTAS\n')
 minhaLista = ['cafe', 'agua', 'acucar']
